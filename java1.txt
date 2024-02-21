@@ -1,0 +1,4 @@
+/java code/
+class
+public static void main string
+  
